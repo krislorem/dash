@@ -73,4 +73,4 @@ pnpm build
 
 ## 许可证
 
-[MIT](https://opensource.org/licenses/MIT) © 2024 [krislorem]
+[MIT](https://opensource.org/licenses/MIT) © 2025-present [krislorem](https://github.com/krislorem/dash)
