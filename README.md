@@ -2,8 +2,6 @@
 
 现代化 React 组件库开发工作区
 
-![Dock 组件演示](https://via.placeholder.com/1280x600.png/2C3E50/FFFFFF?text=Dock+Component+Preview)
-
 ## 技术栈
 
 - 🚀 React 19 + TypeScript
@@ -39,6 +37,7 @@ pnpm dev:ep
 ## 核心包说明
 
 ### @dash/ui
+
 UI 组件库，当前包含：
 
 - 动态停靠栏组件
