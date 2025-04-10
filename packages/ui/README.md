@@ -1,6 +1,6 @@
-# @dash/ui
+# @krislorem/ui
 
-Dash 应用程序的现代化 UI 组件库
+Krislorem 应用程序的现代化 UI 组件库
 
 ![Dock Component Preview](https://via.placeholder.com/800x400.png/0078D4/FFFFFF?text=Dock+Component+Demo)
 
@@ -16,17 +16,17 @@ Dash 应用程序的现代化 UI 组件库
 
 ```bash
 # 使用 pnpm
-pnpm add @dash/ui
+pnpm add @krislorem/ui
 
 # 使用 npm
-npm install @dash/ui
+npm install @krislorem/ui
 ```
 
 ## 使用示例
 
 ```typescript
-import { Dock } from '@dash/ui'
-import type { DockProps } from '@dash/ui'
+import { Dock } from '@krislorem/ui'
+import type { DockProps } from '@krislorem/ui'
 
 const App = () => {
   const dockItems = [

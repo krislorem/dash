@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      '@dash/ui': resolve(__dirname, '../packages/ui/dist')
+      '@krislorem/ui': resolve(__dirname, '../packages/ui/dist')
     }
   }
 })

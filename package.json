@@ -1,5 +1,5 @@
 {
-  "name": "dash",
+  "name": "krislorem",
   "private": true,
   "type": "module",
   "version": "1.0.0",
@@ -13,8 +13,8 @@
     "examples/*"
   ],
   "scripts": {
-    "dev:ui": "pnpm --filter @dash/ui dev",
+    "dev:ui": "pnpm --filter @krislorem/ui dev",
     "dev:ep": "pnpm --filter examples dev",
-    "build:ui": "pnpm --filter @dash/ui build"
+    "build:ui": "pnpm --filter @krislorem/ui build"
   }
 }
