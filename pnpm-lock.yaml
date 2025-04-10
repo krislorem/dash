@@ -13,7 +13,7 @@ importers:
       '@iconify/react':
         specifier: 5.2.1
         version: 5.2.1(react@19.1.0)
-      '@krislorem/ui':
+      '@krislorem/dash-ui':
         specifier: workspace:*
         version: link:../packages/ui
       '@types/styled-components':

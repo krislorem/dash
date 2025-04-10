@@ -1,32 +1,26 @@
-# @krislorem/ui
+# @krislorem/dash-ui
 
-Krislorem 应用程序的现代化 UI 组件库
-
-![Dock Component Preview](https://via.placeholder.com/800x400.png/0078D4/FFFFFF?text=Dock+Component+Demo)
+Dash UI 组件库
 
 ## 特性
 
 - 🚀 基于 React 19 + TypeScript 构建
-- 🎨 支持明暗双主题
-- 📦 开箱即用的高质量组件
-- 🧩 可扩展的样式系统
-- ⚡ 极致性能优化
 
 ## 安装
 
 ```bash
 # 使用 pnpm
-pnpm add @krislorem/ui
+pnpm add @krislorem/dash-ui
 
 # 使用 npm
-npm install @krislorem/ui
+npm install @krislorem/dash-ui
 ```
 
 ## 使用示例
 
 ```typescript
-import { Dock } from '@krislorem/ui'
-import type { DockProps } from '@krislorem/ui'
+import { Dock } from '@krislorem/dash-ui'
+import type { DockProps } from '@krislorem/dash-ui'
 
 const App = () => {
   const dockItems = [

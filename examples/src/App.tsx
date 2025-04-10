@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router'
 import { Icon } from '@iconify/react'
-import { Dock } from '@krislorem/ui'
-import type { DockItem } from '@krislorem/ui'
+import { Dock } from '@krislorem/dash-ui'
+import type { DockItem } from '@krislorem/dash-ui'
 const Home = () => <div>Home Page</div>
 const About = () => <div>About Page</div>
 const Contact = () => <div>Contact Page</div>

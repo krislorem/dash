@@ -1,6 +1,6 @@
-# Dash Monorepo
+# Dash UI Monorepo
 
-现代化 React 组件库开发工作区
+Dash React UI 组件库
 
 ## 技术栈
 
@@ -8,7 +8,6 @@
 - 📦 PNPM Workspace
 - ⚡ Vite 构建工具链
 - 🎨 Styled-Components 样式方案
-- 🛠 Changesets 版本管理
 
 ## 目录结构
 
@@ -36,14 +35,14 @@ pnpm dev:ep
 
 ## 核心包说明
 
-### @dash/ui
+### @krislorem/dash-ui
 
 UI 组件库，当前包含：
 
-- 动态停靠栏组件
+- Dock
 
 ```tsx
-import { Dock } from '@dash/ui'
+import { Dock } from '@krislorem/dash-ui'
 
 const App = () => (
   <Dock 
